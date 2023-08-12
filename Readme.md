@@ -15,3 +15,11 @@ Welcome to the Bubble Game! This simple yet addictive game is all about testing 
 - Keep an eye on the hit value displayed and search for bubbles with the same value.
 - The game is all about speed and accuracy, so don't waste time!
 - Challenge yourself to beat your high score with each playthrough.
+
+
+## Screenshots
+  
+![Screenshot 2023-08-12 115016](https://github.com/AnishPowar01/BubbleGame/assets/98533150/7aa15fd9-5741-4849-b761-91ba1ecc6767)
+
+
+![Screenshot 2023-08-12 115054](https://github.com/AnishPowar01/BubbleGame/assets/98533150/19cfc61e-70a5-409f-bf78-d34cc736dff9)
