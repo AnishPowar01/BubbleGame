@@ -18,8 +18,6 @@ Welcome to the Bubble Game! This simple yet addictive game is all about testing 
 
 
 ## Screenshots
-  
-![Screenshot 2023-08-12 115016](https://github.com/AnishPowar01/BubbleGame/assets/98533150/7aa15fd9-5741-4849-b761-91ba1ecc6767)
+![Screenshot 2023-08-12 120358](https://github.com/AnishPowar01/BubbleGame/assets/98533150/978b6bdc-1614-4407-9cc3-fceb062f97f5)
 
-
-![Screenshot 2023-08-12 115054](https://github.com/AnishPowar01/BubbleGame/assets/98533150/19cfc61e-70a5-409f-bf78-d34cc736dff9)
+![Screenshot 2023-08-12 120452](https://github.com/AnishPowar01/BubbleGame/assets/98533150/a9bf6355-992b-453f-a6c6-cfd8af611ae0)
